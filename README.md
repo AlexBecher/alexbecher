@@ -1,8 +1,30 @@
 ## AlexBecher
+<img align="right" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="350"/>
+
+<a href="https://www.linkedin.com/in/alex-becher">
+<img align="right" alt="LinkedIn" src="https://img.shields.io/badge/-Alex%20Becher-blue"/>
+</a>
+
+<a href="mailto:alexbecher2@gmail.com">
+<img align="right" alt="E-mail" src="https://img.shields.io/badge/-How%20to%20reach%20me-black"/>
+</a>
+
+<a href="https://www.youtube.com/c/AlexBecher">
+<img align="right" alt="LinkedIn" src="https://img.shields.io/badge/-YouTube-red"/>
+</a>
+
+<br/>
+
+### Hey! Welcome to my profile! How is it going? 👋🥰
+
+- Atualmente trabalho na Petrobrás
+- 💻 Construindo coisas legais com Node, Javascript, PHP ...
+- ✨ O aprendizado é contínuo e sempre haverá um próximo nível
+
  <div>
   <a href="https://github.com/AlexBecher">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlexBecher&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexBecher&layout=compact&langs_count=7&theme=default"/>
+ 
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -16,13 +38,4 @@
   
   ##
  
-<div> 
-  <a href="https://www.youtube.com/c/AlexBecher" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 
-
-
-
-  <a href="https://linkedin.com/in/alex-becher" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-
- 
-</div>
