@@ -1,17 +1,11 @@
 ## AlexBecher
 <img align="right" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="350"/>
 
-<a href="https://www.linkedin.com/in/alex-becher">
-<img align="right" alt="LinkedIn" src="https://img.shields.io/badge/-Alex%20Becher-blue"/>
-</a>
 
-<a href="mailto:alexbecher2@gmail.com">
-<img align="right" alt="E-mail" src="https://img.shields.io/badge/-How%20to%20reach%20me-black"/>
-</a>
+[![Youtube Badge](https://img.shields.io/badge/-Youtube-FF0000?style=flat-square&labelColor=FF0000&logo=youtube&logoColor=white&link=https://www.youtube.com/c/AlexBeche)](https://www.youtube.com/c/AlexBeche) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alex-becher)](https://www.linkedin.com/in/alex-becher) 
 
-<a href="https://www.youtube.com/c/AlexBecher">
-<img align="right" alt="LinkedIn" src="https://img.shields.io/badge/-YouTube-red"/>
-</a>
+
+
 
 <br/>
 
